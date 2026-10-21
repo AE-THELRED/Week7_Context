@@ -1,80 +1,70 @@
-# Credentials and local environment settings (examples must contain placeholders only)
-.env
-.env.*
+
 !.env.example
-*.pem
-*.key
-/credentials.json
-/service-account*.json
-
-# Input documents and generated context may contain private course material
-/context_sample/
-/prepared_context/
-/results/
-
-# Generated indexes, graph artifacts, extraction caches, and local database files
-/local_vectordb/
-/local_graph*.json
-.*_cache/
-*.sqlite
-*.sqlite3
-*.sqlite-wal
-*.sqlite-shm
-*.sqlite3-wal
-*.sqlite3-shm
 # Add explicit rules for custom --db / --graph output paths before staging them.
-
-# Machine-specific MCP configuration; keep configure_level5.py in Git
-/mcp-configs/
-/.mcp.json
-/.codex/config.toml
-/.agents/mcp_config.json
-/.claude/settings.local.json
-
-# Python environments, bytecode, packaging output, and test/tool caches
-.venv*/
-venv/
-env/
-__pycache__/
-*.py[cod]
-*.egg-info/
-/build/
-/dist/
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-.coverage
-.coverage.*
-coverage.xml
-htmlcov/
-
+# Credentials and local environment settings (examples must contain placeholders only)
 # Downloaded local model weights
-*.gguf
-*.safetensors
-
+# Generated indexes, graph artifacts, extraction caches, and local database files
+# Input documents and generated context may contain private course material
 # Local work notes (the student-facing instructions remain versioned)
-/task_plan.md
-/findings.md
-/progress.md
-/.planning/
-/.plan-attestation
-
 # Logs, editor scratch files, and operating-system metadata
+# Machine-specific MCP configuration; keep configure_level5.py in Git
+# Python environments, bytecode, packaging output, and test/tool caches
+*.egg-info/
+*.gguf
+*.key
 *.log
-/logs/
-*.swp
+*.pem
+*.py[cod]
+*.safetensors
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
 *.swo
+*.swp
 *~
-.idea/
+.*_cache/
 .DS_Store
 ._*
-Thumbs.db
+.coverage
+.coverage.*
+.env
+.env.*
+.idea/
+.local_graph_cache/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.venv*/
+.venv-mcp/
+/.agents/mcp_config.json
+/.claude/settings.local.json
+/.codex/config.toml
+/.mcp.json
+/.plan-attestation
+/.planning/
+/build/
+/context_sample/
+/credentials.json
+/dist/
+/findings.md
+/local_graph*.json
+/local_vectordb/
+/logs/
+/mcp-configs/
+/prepared_context/
+/progress.md
+/results/
+/service-account*.json
+/task_plan.md
 Desktop.ini
-.venv-mcp/
+Thumbs.db
 __pycache__/
-.DS_Store
-.local_graph_cache/
-.venv-mcp/
-__pycache__/
-.DS_Store
-.local_graph_cache/
+coverage.xml
+env/
+htmlcov/
+local_vectordb/
+prepared_context/
+venv/
