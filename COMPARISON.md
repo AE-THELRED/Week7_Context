@@ -81,7 +81,4 @@ Cloud runs (B, C, D) send document text to Google. Local runs keep it on this ma
 
 ## 8. Evidence
 
-- Commit links: TODO (repository not yet pushed)
-- Reviewed diff screenshot: TODO
 - Results files: `results/`
-- Screenshots: TODO (`screenshots/` is empty)
