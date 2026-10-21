@@ -1,0 +1,44 @@
+{
+  "created_at": "2026-10-21T21:39:31.488665+00:00",
+  "prompt_sha256": "8d4a4b88a4102a8b12d5d58bd305f3aefa33f2a9bc570bfe1238fefe123c30b1",
+  "prompt_characters": 2248,
+  "max_output_tokens": null,
+  "ollama_num_ctx": 4096,
+  "sampling": "provider defaults",
+  "runs": [
+    {
+      "provider": "gemini",
+      "model": "gemini-3.8-flash",
+      "effective_max_output_tokens": 8192,
+      "text": "Based on the provided source material, the text outlines themes structured primarily around a **topic tree** designed to move the audience \"from waiting out the collapse to setting themselves on fire,\" along with content strategies for writing [course.txt::Personal_Brand_Strategy.md (chunk 12)]:\n\n### Key Themes\n1. **The Theology (Branch 1):**\n   * Focuses on giving the audience language for the soul they suspect exists and providing a reason to believe the fire is survivable [course.txt::Personal_Brand_Strategy.md (chunk 12)].\n   * Includes topics such as \"The mistranslation of YHWH and the fatal error of personhood\" and \"Æ\" [course.txt::Personal_Brand_Strategy.md (chunk 12)].\n\n2. **Critique of Power and Aesthetics:**\n   * Emphasizes critique and self-exposure over worship, keeping grandeur visibly fragile and behaving critically toward power rather than borrowing its mood [course.txt::Personal_Brand_Strategy.md (chunk 12)].\n   * Explores \"Fascist aesthetics as a study of how people internalize domination\" [course.txt::Personal_Brand_Strategy.md (chunk 14)].\n\n3. **Ownership of Culture and Attention:**\n   * Aims to name the \"tollbooth\" and provide the audience a way to stop paying [course.txt::Personal_Brand_Strategy.md (chunk 14)].\n   * Covers concepts of exploitation and control, such as the doomscroller as a \"null variable,\" the tribute cycle (rent, debt, daily payments), the digital twin, and the cultural bureaucrat versus the cultural worker [course.txt::Personal_Brand_Strategy.md (chunk 14)].\n   * Promotes reclaimed agency: \"Every man an artist, every artist an owner,\" \"VENN-U and H.U.M.A.N. as the commons and the ledger,\" and \"Life as protest, existence as art\" [course.txt::Personal_Brand_Strategy.md (chunk 14)].\n\n4. **Building a Library of Personal Knowledge (What to write about):**\n   * Centers on accumulating personal knowledge through specific post formats that work: stating \"Extreme beliefs,\" finishing \"Ideas you wish you had written,\" and naming the \"Problems people face\" [course.txt::Personal_Brand_Strategy.md (chunk 16)].\n   * Employs structural delivery methods such as \"The sermon format\" (cold open, grievance, verdict) and breaking the doomscroll [course.txt::Personal_Brand_Strategy.md (chunk 16)].\n\n### How They Are Related\n* **Progression toward action:** The durable branches are designed to collectively move the audience from passive endurance (\"waiting out the collapse\") toward active awakening or transformation (\"setting themselves on fire\") [course.txt::Personal_Brand_Strategy.md (chunk 12)].\n* **Spiritual grounding linked to systemic resistance:** \"The theology\" equips the audience with an understanding of the soul to survive the fire [course.txt::Personal_Brand_Strategy.md (chunk 12)], while the branch on culture/attention exposes economic/cultural exploitation (debt, the doomscroll, attention capture) and provides tools to reject it [course.txt::Personal_Brand_Strategy.md (chunk 14)].\n* **Execution via writing:** These conceptual critiques of power, attention, and theology translate into personal practice by framing content as a \"library of personal knowledge,\" using provocative post types (extreme beliefs, naming pain) and structured formats (the sermon format, breaking the doomscroll) to impact the audience [course.txt::Personal_Brand_Strategy.md (chunk 16)].\n\n*(Note: The text explicitly mentions \"Three durable branches\" in the topic tree [course.txt::Personal_Brand_Strategy.md (chunk 12)], but details for all three are partially truncated or omitted in the provided excerpts, meaning evidence for the complete thematic structure is missing.)*",
+      "finish_reason": "STOP",
+      "usage": {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 859,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 548,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 548
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 1407,
+        "traffic_type": null
+      },
+      "resolved_model": "gemini-3.8-flash",
+      "request_settings": {
+        "max_output_tokens": 8192,
+        "thinking_config": {
+          "thinking_level": "low"
+        }
+      },
+      "status": "ok",
+      "elapsed_seconds": 7.742
+    }
+  ]
+}

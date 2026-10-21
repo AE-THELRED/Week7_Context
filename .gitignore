@@ -46,7 +46,6 @@
 /.plan-attestation
 /.planning/
 /build/
-/context_sample/
 /credentials.json
 /dist/
 /findings.md
@@ -56,7 +55,6 @@
 /mcp-configs/
 /prepared_context/
 /progress.md
-/results/
 /service-account*.json
 /task_plan.md
 Desktop.ini

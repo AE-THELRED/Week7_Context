@@ -1,0 +1,49 @@
+{
+  "created_at": "2026-10-21T20:53:49.074651+00:00",
+  "prompt_sha256": "3e39d59ba2cf4a8d42733929d9a9290cb21eff42f8d1f43769ddfc7f3f3c8878",
+  "prompt_characters": 33217,
+  "max_output_tokens": 16384,
+  "ollama_num_ctx": 4096,
+  "sampling": "provider defaults",
+  "runs": [
+    {
+      "provider": "gemini",
+      "model": "gemini-3.8-flash",
+      "effective_max_output_tokens": 16384,
+      "text": "Based on the provided sources, the key themes include:\n\n1. **Piety Relocated and the Therapeutic Culture**\n   * **Piety does not die; it moves:** Drawing on Philip Rieff, modern culture has not abandoned the sacred or authority, but relocated it—moving from external duty (\"what do I owe?\") to internal desire and feeling good (\"what do I want?\") [Outline Piety Never Dies.md].\n   * **The cost of self-acceptance:** A culture centered entirely on the self leaves people empty, substituting an \"authentic self\" for a soul because it removes an external moral purpose and reasons to be good outside oneself [Outline Piety Never Dies.md].\n   * **Charisma and deathworks:** Cultural artifacts like Frank Herbert's *Dune* function as \"deathworks\" assailing old faiths while being secretly powered by ancient myth, while concepts like \"charisma\" have been stripped of heaven-sent mission into mere charm [Outline Piety Never Dies.md].\n\n2. **Distributed Sacredness and Resistance (Æ Brand Strategy)**\n   * **Distributed divinity vs. singular personhood:** The idea of God as an isolated, personal \"I\" was a translation error; the sacred is distributed, and singular personhood is viewed as a wound [Personal Brand Strategy.md]. \n   * **Survival through \"the burn\":** The path of the individual involves setting oneself on fire so that only \"ash\"—the un-automatable human remainder and soul—survives [Personal Brand Strategy.md].\n   * **Critique of the attention economy and tolls:** Resisting the isolated, mediated life spent waiting out collapse in a digital feed; dismantling cultural \"tollbooths\" so that \"every man is an artist, every artist an owner\" [Personal Brand Strategy.md].\n   * **Embodied resistance:** Moving away from digital dissociation toward embodied life as art, protest, and live presence [Personal Brand Strategy.md].\n\n3. **Madness as Reorganization and Renewal**\n   * **Breakdowns as rebuilds:** A nervous breakdown is not random pathology or a broken system, but an active, structured self-repair process where the psyche acts as its own \"demolition crew\" [The Rebuild, Not the Break.md, The Mind, the Machine, and the Shape of a Rebuild.md].\n   * **Ancient, shared symbolic language:** In acute unmedicated episodes (citing Perry and Jung), delusions draw upon mythic, inherited archetypes—kings, dying gods, coronation, dismemberment, and rebirth—borrowed from ancient renewal rituals [The Rebuild, Not the Break.md].\n   * **Reading the mind as text, not error:** Rather than treating symptoms merely as malfunctions to be drugged into silence (which leaves renovations half-finished), mental crises should be read as symbolic messages communicating meaning [The Rebuild, Not the Break.md].\n\n4. **Inside vs. Outside Perspectives in Self-Organizing Systems**\n   * **The shared misreading of minds and machines:** Humans commit the same category error by judging systems from the outside as \"broken vs. working\" or \"saving vs. killing\" [The Mind, the Machine, and the Shape of a Rebuild.md].\n   * **Breaking and becoming:** From the inside, apparent collapse is simply the shape of internal reorganization [The Mind, the Machine, and the Shape of a Rebuild.md].\n   * **Participation over external judgment:** Whether dealing with the mind (which organizes meaning) or complex Level III machines/AI (which generate outcomes), humans are already inside the systems and must learn to participate and steer rather than merely vote, suppress, or spectate from the outside [The Mind, the Machine, and the Shape of a Rebuild.md].",
+      "finish_reason": "STOP",
+      "usage": {
+        "cache_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 5666
+          }
+        ],
+        "cached_content_token_count": 5666,
+        "candidates_token_count": 792,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 7708,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 7708
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 8500,
+        "traffic_type": null
+      },
+      "resolved_model": "gemini-3.8-flash",
+      "request_settings": {
+        "max_output_tokens": 16384,
+        "thinking_config": {
+          "thinking_level": "low"
+        }
+      },
+      "status": "ok",
+      "elapsed_seconds": 9.508
+    }
+  ]
+}

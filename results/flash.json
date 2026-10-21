@@ -1,0 +1,44 @@
+{
+  "created_at": "2026-10-21T20:53:06.775440+00:00",
+  "prompt_sha256": "3e39d59ba2cf4a8d42733929d9a9290cb21eff42f8d1f43769ddfc7f3f3c8878",
+  "prompt_characters": 33217,
+  "max_output_tokens": null,
+  "ollama_num_ctx": 4096,
+  "sampling": "provider defaults",
+  "runs": [
+    {
+      "provider": "gemini",
+      "model": "gemini-3.8-flash",
+      "effective_max_output_tokens": 8192,
+      "text": "Based on the provided source materials, the key themes across the documents include:\n\n### 1. The Relocation of Piety, Duty, and the Sacred\n* **Piety Relocates, It Does Not Die:** Modern culture has not ceased believing in the sacred; instead, authority and piety have shifted from an external, higher power to the self, turning desire into a compass and replacing duty with self-acceptance (*Outline Piety Never Dies.md*).\n* **The Fatal Error of Divine Personhood:** The divine name (YHWH) was mistranslated as \"I am that I am,\" mistakenly attaching personhood and singularity to God. In contrast, the sacred is distributed, the self is a relay, and true authority operates without personhood (*Personal_Brand_Strategy.md*).\n* **Duty vs. Desire:** Authentic purpose and direction emerge from asking what one owes rather than what one wants, counteracting a therapeutic culture where feeling good has displaced moral purpose (*Outline Piety Never Dies.md*).\n\n### 2. Madness as Rebuilding and Self-Organization\n* **Breakdown as Renovation:** A nervous breakdown or acute psychotic episode is not merely a malfunction, error, or collapse, but an active, structured attempt by the psyche to reorganize and rebuild itself (*The Rebuild, Not the Break.md*, *The Mind, the Machine, and the Shape of a Rebuild.md*).\n* **Old Holy Language and Shared Grammar:** The imagery produced during psychological crises (kings, dying gods, rebirth, dismemberment) constitutes an ancient, shared symbolic grammar of self-repair and renewal rooted in myth and ritual (*The Rebuild, Not the Break.md*, *The Mind, the Machine, and the Shape of a Rebuild.md*).\n* **Reading the Mind as Text:** Symptoms and delusions should be treated as symbols communicating meaning rather than mere noise or errors to be medicated into silence (*The Rebuild, Not the Break.md*, *The Mind, the Machine, and the Shape of a Rebuild.md*).\n\n### 3. Outside Observer vs. Inside Participant\n* **Mistaking Reorganization for Collapse:** External observers rely on binary judgments (working/broken, saving/killing), missing that self-organizing systems looking broken from the outside are often reorganizing from the inside (*The Mind, the Machine, and the Shape of a Rebuild.md*).\n* **The Shared Parallel of Mind and Machine:** Both the human psyche and techno-human systems are misread when treated from the outside. People are already inside the machine (a condition to steer, not merely vote on) just as the mind is already in an internal process of rebuilding (*The Mind, the Machine, and the Shape of a Rebuild.md*).\n\n### 4. Resistance, \"The Burn,\" and What Survives\n* **The Fire and the Ash:** Renewal requires undergoing \"the burn\" (setting oneself on fire), where \"ash\" represents the irreducible human remainder and soul that survives collapse and cannot be automated (*Personal_Brand_Strategy.md*).\n* **Embodied Resistance and Rejection of the Isolated \"I\":** Moving away from the isolated, mediated, networked self trapped in digital feeds. Resistance is lived and embodied (\"Existence as art\"), rejecting the idea of the lone, self-made individual in favor of the shared symbol \"Æ\" (*Personal_Brand_Strategy.md*).\n* **Reclaiming Culture and Attention:** Challenging cultural gatekeepers (\"tollbooths\" disguised as curation) and corporate productivity, advocating for \"every man an artist, every artist an owner\" (*Personal_Brand_Strategy.md*).\n\n### 5. Critique of Therapeutic and Technological Flattening\n* **Flattening of Authority and Charisma:** Charisma has been emptied of its original meaning (a mission or grace from heaven) into superficial charm and camera appeal without a moral task (*Outline Piety Never Dies.md*), while also being systematically stripped from individuals who are capable of possessing it (*Personal_Brand_Strategy.md*).\n* **Art as a Deathwork:** Works of art in modern culture (such as Frank Herbert's *Dune*) can operate as \"deathworks\" designed to assail old faiths and replace traditional religious structures with an address to the Nothing (*Outline Piety Never Dies.md*).\n* **Human Soul vs. Artificial Productivity:** Distinguishing divine human potential and meaning from synthetic, profane productivity (AI), asserting that while the machine forms the surrounding cathedral, the living human center cannot be automated (*Personal_Brand_Strategy.md*, *The Mind, the Machine, and the Shape of a Rebuild.md*).",
+      "finish_reason": "STOP",
+      "usage": {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 975,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 7708,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 7708
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 8683,
+        "traffic_type": null
+      },
+      "resolved_model": "gemini-3.8-flash",
+      "request_settings": {
+        "max_output_tokens": 8192,
+        "thinking_config": {
+          "thinking_level": "low"
+        }
+      },
+      "status": "ok",
+      "elapsed_seconds": 10.258
+    }
+  ]
+}

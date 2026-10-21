@@ -1,0 +1,28 @@
+# Outline: Piety Never Dies
+## Thesis
+We did not stop believing in the sacred; we moved it. Piety, as Philip Rieff put it, "never dies, it just moves from object to object" — and right now it is pointed at the self. A culture that replaced duty with desire, and moral judgment with the pursuit of feeling better, did not free us. It left us calmer and emptier at once, because it removed the one thing a culture exists to provide: a reason to be good that is not about you. The cure was the disease.
+## Title options
+1. **Piety Never Dies** *(recommended — specific, eerily confident, and it's the essay's own spine)*
+2. Ask What a Culture Forbids, Not What It Worships
+3. We Didn't Stop Believing in God. We Moved Him.
+4. Your "Authentic Self" Is a Substitute for a Soul
+5. The Culture Isn't Sick. It's Trying to Cure You of Everything
+## The arc
+### 1. Open on the forbidden question
+Open on the diagnostic move, not on Rieff. "Want to read any age in one glance? Skip what it worships. Ask what it forbids." Strong cultures carry a list of things you're not allowed to do. Name what ours forbids: almost exactly one thing — saying any way of living is worse than another. That single interdict is the door into the whole essay; establish it, then invite the reader through it. This section does the job of making the reader feel the vertigo of the premise before any theory arrives.
+### 2. Introduce the man and the word that unlocks him
+Introduce Philip Rieff as the thinker who made the move readable — the Freud scholar who coined "psychological man" and, later, "the therapeutic." Don't over-bio; give only what the reader needs to trust the source and to hold the vocabulary. Land the load-bearing terms here: the third culture, the deathwork, the vertical in authority. The goal is a shared toolkit, not a literature review.
+### 3. Name the diagnosis: the therapeutic turned theologian
+The core argument, drawn from The Triumph of the Therapeutic. Where the priest once told you what you owed, the therapist tells you what you need. We didn't abolish authority; we swapped its object, from something above you to something inside you. State the paradox plainly: a culture built entirely on self-acceptance can tell you that you are fine, but it can never tell you what your life is for. Feeling good becomes the purpose, and purpose quietly leaves the room.
+### 4. The mechanism: desire as compass, duty as the forbidden word
+Show the switch with a concrete inversion every reader can feel. Every culture before ours ran on duty — "what do I owe?" — and we replaced it with "what do I want?" Desire becomes the compass, and the map loses its north. This is the section that turns diagnosis into experience: the reader tries asking the older question once and watches the whole route change. Use the first-person turning point material here — stopping asking what you want and starting asking what you owe.
+### 5. Case study: Dune as the perfect deathwork
+Bring in the concrete proof, the board's sharpest illustration. Frank Herbert's Dune is the best-selling science-fiction novel of all time, and on Rieff's terms it is a model deathwork: a work of art built to assail the old faiths. Where religion appears, it is always manipulation of the simple by the powerful; in its place Herbert offers what Rieff called "an address to the Nothing." Show how the most beloved modern epic, consumed by millions who think they're post-religious, is actually powered by the machinery of ancient myth — proof that piety relocated rather than died.
+### 6. What the word "charisma" reveals
+Zoom in on a single word to make the whole argument portable. "Charisma" once meant being handed a mission by heaven — the gift of grace. Max Weber emptied it of its moral content, and we completed the job: now it means being charming on camera. We kept the word and threw away the task. A leader with no mission, only appeal — that's the flattened version of authority the therapeutic culture produces. This is the etymology-reveal that lets a reader carry the thesis around in one sentence.
+### 7. The mechanism of resistance: what we're no longer allowed to call wrong
+Answer the strongest objection before it's raised. The modern reader will say: but we're freer now, less judged, more tolerant than any culture before us. Meet it head-on. The price of that freedom from judgment is that nothing external is left to obey, and a self with nothing to answer to is not a finished person but a personality with a vacancy at its center. The authenticity gospel — the "true self" as the new sacred — is precisely the substitute for a soul you reach for when you can no longer agree on what a good person is.
+### 8. Turn it back on you: the older question, asked once
+The personal payoff. The essay should not end as a lament. It should end as an invitation to run the one experiment that costs nothing and changes the map: stop asking what you want for a day, and ask what you owe. To whom, and what, are you answerable? Name the quiet relief on the other side of the question — that duty, far from being a cage, is the only thing that turns the endless project of feeling okay into a life with a direction. This is where "the cure was the disease" flips into its hopeful counterweight.
+## The closer
+End on the single sharpest reframe: we were never post-religious, only between altars — and the question that decides what kind of person you become is not "what makes me feel okay," but "who am I willing to answer to." Not a summary. A hinge the reader turns on themselves.

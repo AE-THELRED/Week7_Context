@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-10-21T19:32:12.475883+00:00",
+  "prompt_sha256": "3e39d59ba2cf4a8d42733929d9a9290cb21eff42f8d1f43769ddfc7f3f3c8878",
+  "prompt_characters": 33217,
+  "max_output_tokens": null,
+  "ollama_num_ctx": 4096,
+  "sampling": "provider defaults",
+  "runs": [
+    {
+      "provider": "ollama",
+      "model": "phi4-mini:3.8b-q4_K_M",
+      "effective_max_output_tokens": 1024,
+      "text": "The key themes in \"The Rebuild, Not the Break\" are as follows:\n\n1. **Reconstruction of the Self**: The central theme is that what we often perceive as a nervous breakdown or psychosis is actually a process of self-reconstruction. This theme is rooted in the idea that the psyche, much like a demolition crew, has an inherent capability to reorganize and rebuild itself during moments of crisis. This is supported by Perry's clinical findings and the notion that psychosis can be a legitimate altered state of being that attempts to reorganize the self (Source: \"The Rebuild, Not the Break\").\n\n2. **Misinterpretation of Psychosis**: Another key theme is the common misinterpretation of psychosis as a malfunction or breakdown of the mind. The argument presented is that this misinterpretation leads to premature intervention with medication, which can silence the self-rebuilding process at its critical stage. This is evident in the claim that we often intervene at the exact moment the psyche begins its own demolition and rebuild (Source: \"The Rebuild, Not the Break\").\n\n3. **The Language of Psychosis**: The theme of the old holy language suggests that the imagery and symbolism produced during psychotic episodes are not random but follow an ancient, shared grammar of self-repair. This theme draws on the idea that the delusions and visions of psychosis are structured attempts to communicate and rebuild (Source: \"The Rebuild, Not the Break\").\n\n4. **Psychosis as a Cultural Ritual**: The idea that psychosis can be understood as a cultural ritual performed inward ties into the theme of psychosis as a process of individual transformation that mirrors collective mythological narratives. The imagery of dying gods, kings, and rebirth found in psychosis is compared to cultural and mythological rituals of renewal (Source: \"The Rebuild, Not the Break\").\n\n5. **The Cost of Medication**: The theme of the cost of medication is centered on the idea that suppressing psychosis to manage symptoms can leave the self-incomplete. This theme argues for a more attentive approach to psychosis, one that seeks to understand and support the individual's attempt at self-reconstruction rather than prematurely silencing it (Source: \"The Rebuild, Not the Break\").\n\n6. **Individuality and Evolution**: Lastly, the theme of individuality as evolution's engine posits that the emergence of individual consciousness is an evolutionary process. This theme suggests that mental crises and psychosis might represent moments of intense transformation essential for the evolution of consciousness (Source: \"The Rebuild, Not the Break\").",
+      "finish_reason": "stop",
+      "usage": {
+        "prompt_eval_count": 2050,
+        "eval_count": 525,
+        "load_duration": 2155055667
+      },
+      "resolved_model": "phi4-mini:3.8b-q4_K_M",
+      "request_settings": {},
+      "status": "ok",
+      "elapsed_seconds": 13.724
+    }
+  ]
+}

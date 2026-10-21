@@ -1,0 +1,44 @@
+{
+  "created_at": "2026-10-21T21:50:34.403084+00:00",
+  "prompt_sha256": "20c4f2f8f6592e4698f6d38634e4f47848841a3a1781aee67a486c3ac407762c",
+  "prompt_characters": 10352,
+  "max_output_tokens": null,
+  "ollama_num_ctx": 4096,
+  "sampling": "provider defaults",
+  "runs": [
+    {
+      "provider": "gemini",
+      "model": "gemini-3.8-flash",
+      "effective_max_output_tokens": 8192,
+      "text": "Based on the provided source material, the key themes and their relationships include:\n\n### 1. Resistance, Embodying the Self, and the Tool Fight (Æ vs. AI)\n* **Embodied Self vs. Collapsing World:** The brand strategy is targeted at individuals waiting out a collapsing world alone with a screen, moving them toward an \"embodied self that has survived the fire\" through \"lived, embodied resistance\" and \"existence as art\" [course.txt::Personal_Brand_Strategy.md (chunk 14)].\n* **Æ vs. AI:** AETHELRED uses the lens of \"Æ\", which represents \"divine human potential,\" whereas \"AI\" represents \"profane productivity\" [course.txt::Personal_Brand_Strategy.md (chunk 14)]. The central conflict or fight is over \"who owns the tool\" [course.txt::Personal_Brand_Strategy.md (chunk 14)].\n* **Critique of Power and Ownership:** The work is positioned to behave critically toward power and confront \"Who owns culture and attention\" by identifying systems such as debt, rent, cultural bureaucracy, and how people internalize domination [course.txt::Personal_Brand_Strategy.md (chunks 12, 14)].\n\n### 2. Technology and Unintended Amplification\n* Technology is categorized into three levels [course.txt::Personal_Brand_Strategy.md (chunk 14)]:\n  * **Level I technology:** Defined as \"tools that obey.\"\n  * **Level II technology:** Defined as \"systems that amplify.\"\n  * **Level III technology:** Defined as \"systems that produce outcomes nobody intended or predicted.\"\n* This connects directly to the doomscroller dynamic, where attention is managed by external systems and digital tools [course.txt::Personal_Brand_Strategy.md (chunk 14)].\n\n### 3. Destruction, Renewal, and Psychosis as Self-Reorganization\n* **Deathwork and Piety:** Frank Herbert’s *Dune* is cited as an example of a \"deathwork,\" defined as a work of art created to attack or assail old faiths, illustrating how cultural forms engage with dying beliefs [course.txt::Personal_Brand_Strategy.md (chunk 14)].\n* **Mythic Kingship and Renewal:** Jung’s *Lord of the Four Quarters* reflects kingship mythology where the king dies and undergoes rebirth so that the collective can renew itself [course.txt::Personal_Brand_Strategy.md (chunk 14)].\n* **Psychosis as Reorganization:** In *Roots of Renewal in Myth and Madness* and *The Far Side of Madness*, Perry found that when medication is avoided during an acute psychotic episode, the experience becomes a legitimate altered/visionary state in which the self attempts to reorganize and self-repair [course.txt::Personal_Brand_Strategy.md (chunk 14)]. \n* **Relationship to Theology/Brand:** These themes mirror the topic tree’s theological goal: moving an audience through crisis (\"setting themselves on fire\") with the assurance that the collapse or fire is survivable [course.txt::Personal_Brand_Strategy.md (chunk 12)].\n\n### 4. Secularization and the Loss of Charisma\n* Drawing on Max Weber, \"charisma\" was historically viewed as the gift of grace or a mission from heaven, but was emptied of its moral content, eventually becoming trivialized as merely \"being charming on camera\" [course.txt::Personal_Brand_Strategy.md (chunk 14)].\n\n### 5. Content Creation as Knowledge Building\n* Content creation is framed around constructing a \"library of personal knowledge\" rather than worrying about how basic a piece feels [course.txt::Personal_Brand_Strategy.md (chunk 16)].\n* Effective post formats leverage the aforementioned themes by stating hard truths (\"Extreme beliefs\"), completing half-formed cultural thoughts (\"Ideas you wish you had written\"), and identifying collective suffering (\"Problems people face\") [course.txt::Personal_Brand_Strategy.md (chunk 16)].",
+      "finish_reason": "STOP",
+      "usage": {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 860,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 2875,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 2875
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 3735,
+        "traffic_type": null
+      },
+      "resolved_model": "gemini-3.8-flash",
+      "request_settings": {
+        "max_output_tokens": 8192,
+        "thinking_config": {
+          "thinking_level": "low"
+        }
+      },
+      "status": "ok",
+      "elapsed_seconds": 8.809
+    }
+  ]
+}
