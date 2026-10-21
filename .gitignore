@@ -1,0 +1,76 @@
+# Credentials and local environment settings (examples must contain placeholders only)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+/credentials.json
+/service-account*.json
+
+# Input documents and generated context may contain private course material
+/context_sample/
+/prepared_context/
+/results/
+
+# Generated indexes, graph artifacts, extraction caches, and local database files
+/local_vectordb/
+/local_graph*.json
+.*_cache/
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite3-wal
+*.sqlite3-shm
+# Add explicit rules for custom --db / --graph output paths before staging them.
+
+# Machine-specific MCP configuration; keep configure_level5.py in Git
+/mcp-configs/
+/.mcp.json
+/.codex/config.toml
+/.agents/mcp_config.json
+/.claude/settings.local.json
+
+# Python environments, bytecode, packaging output, and test/tool caches
+.venv*/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+/build/
+/dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Downloaded local model weights
+*.gguf
+*.safetensors
+
+# Local work notes (the student-facing instructions remain versioned)
+/task_plan.md
+/findings.md
+/progress.md
+/.planning/
+/.plan-attestation
+
+# Logs, editor scratch files, and operating-system metadata
+*.log
+/logs/
+*.swp
+*.swo
+*~
+.idea/
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+.venv-mcp/
+__pycache__/
+.DS_Store
+.local_graph_cache/
